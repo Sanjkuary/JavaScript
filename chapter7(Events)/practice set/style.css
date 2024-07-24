@@ -1,0 +1,14 @@
+button{
+    color: brown;
+    background-color: chartreuse;
+}
+p{
+    color: red;
+}
+
+.dark{
+    background-color: black;
+}
+.light{
+    background-color: white;
+}

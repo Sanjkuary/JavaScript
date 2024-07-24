@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: aliceblue;
+    background-color: blue;
+    border: 1px solid black;
+}
+button{
+    color: black;
+    background-color: blueviolet;
+}
